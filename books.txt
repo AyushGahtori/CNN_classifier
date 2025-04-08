@@ -1,0 +1,3 @@
+understand deep learning.
+
+hands-on machine learning with sckit-learn, keras and tensorflow.
